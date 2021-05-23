@@ -1,0 +1,104 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+
+a {
+  outline: 0;
+}
+
+.markdown figure {
+  display: block;
+  margin: 3em 0;
+  text-align: center;
+
+  > img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  > figcaption {
+    opacity: 0.5;
+    font-size: 11px;
+    font-weight: normal;
+    margin: 0 auto;
+    max-width: 400px;
+    width: 90%;
+    text-align: center;
+
+    > h4 {
+      color: inherit;
+      font: inherit;
+      text-align: inherit;
+    }
+  }
+}
+
+.page-header {
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+  border-bottom: 2px solid #e9ecef;
+
+  > h1 {
+    margin: 0;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+
+  > p {
+    margin: 1em 0 0;
+    opacity: 0.6;
+    font-size: 1.125em;
+    line-height: 1.4;
+  }
+}
+
+@media (min-width: 897px) {
+  .book-menu {
+    margin-top: 0.5em;
+
+    > nav {
+      position: sticky;
+      bottom: auto;
+      max-height: 100vh;
+    }
+  }
+}
+
+.book-posts {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.book-post {
+  display: block;
+  background: #fff;
+  border-radius: 4px;
+  padding: 18px;
+  color: inherit;
+  box-shadow: 2px 2px 13px #e9ecef;
+
+  > h2 {
+    margin: 0;
+    font-size: 1.25em;
+    color: inherit;
+  }
+
+  > p {
+    margin: 1em 0 0;
+    font-size: 1em;
+    opacity: 0.6;
+  }
+}
+
+.book-hint.todo {
+  border: solid 2px purple;
+
+  &:before {
+    display: block;
+    content: "TODO";
+    font-size: 0.875em;
+    font-weight: bold;
+    color: purple;
+  }
+}
