@@ -1,6 +1,6 @@
-baseURL = "https://game-dev-bible.catalystsoftworks.com/"
+baseURL = "https://game-dev-handbook.catalystsoftworks.com/"
 languageCode = "en-us"
-title = "Catalyst Game Dev Bible"
+title = "Catalyst Game Dev Handbook"
 theme = "book"
 enableGitInfo = true
 
