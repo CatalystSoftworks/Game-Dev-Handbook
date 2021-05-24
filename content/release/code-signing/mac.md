@@ -1,10 +1,8 @@
 ---
-title: Code Signing
+title: MacOS
 ---
 
-# Windows
-
-# macOS
+# Code Signing for Release on MacOS
 
 Much of this portion of the guide is based on [this fantastic little gist](https://gist.github.com/dpid/270bdb6c1011fe07211edf431b2d0fe4).
 
