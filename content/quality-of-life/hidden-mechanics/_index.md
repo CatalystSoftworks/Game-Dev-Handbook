@@ -2,6 +2,7 @@
 title: Hidden Mechanics
 description: Outlines examples of various implicit systems designed to help improve player experience.
 layout: single
+weight: 10
 ---
 
 In game dev, there's can be a number of occasions where it's necessary to break the rules of statistics, physics, the game, etc in order to provide the player a more enjoyable experience. The intent of these mechanics varies wildly, but common goals are...
@@ -15,3 +16,7 @@ These mechanics are often best reserved for non-competitive games (i.e, games th
 Gameranx posted a video that does a pretty good job of demonstrating examples of these types of systems in various games:
 
 {{< youtube "qKUeoxA5uAs" >}}
+
+# Additional Resources
+
+- [14 Hidden Video Game Design Tricks That Will Blow Your Mind](https://www.goliath.com/gaming/14-hidden-video-game-design-tricks-that-will-blow-your-mind/)

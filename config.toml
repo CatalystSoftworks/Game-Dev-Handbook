@@ -5,7 +5,6 @@ title = "Game Dev Handbook"
 disablePathToLower = true
 enableGitInfo = true
 
-
 [markup.tableOfContents]
     startLevel = 1
 
@@ -20,6 +19,5 @@ enableGitInfo = true
     # Portable links meant to work with text editors and let you write markdown without {{< relref >}} shortcode
     # Theme will print warning if page referenced in markdown does not exists.
     BookPortableLinks = true
-
 
     BookLogo = "https://catalystsoftworks.com/logo.svg"

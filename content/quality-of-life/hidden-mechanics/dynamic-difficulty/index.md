@@ -31,11 +31,3 @@ talk about elder scrolls level scaling
 The levels for most enemies scale with your own. That is, they will become stronger as you become stronger. Furthermore, they improve at a higher rate than you, so while a level 5 character can take on a level 5 enemy rather easily, a level 30 character will have a lot of trouble defeating a level 30 enemy. You can compensate for this somewhat through junctioning, but it can still present a challenge. Enemies also see a huge jump in strength at levels 10 and 30, so you'll do best to keep your characters lower than that.
 
 _Taken from [this reddit thread on why keeping a low level is important](https://www.reddit.com/r/FinalFantasy/comments/28gvqn/why_is_keeping_a_low_level_in_ffviii_important/)_
-
-# Common Techniques
-
-## Level Scaling
-
-{{< hint "todo" >}}
-Provide an example implementation of level scaling
-{{< /hint >}}
