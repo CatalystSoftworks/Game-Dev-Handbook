@@ -1,6 +1,6 @@
 ---
 title: Audio Settings
-description: Outlines common options related to audio and configuration around audio.
+description: Outlines common options related to audio settings.
 ---
 
 # Common Options

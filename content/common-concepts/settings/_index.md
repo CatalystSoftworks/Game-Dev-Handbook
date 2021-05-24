@@ -11,6 +11,6 @@ It's all too easy to see settings as something easily implemented later in devel
 {{< /hint >}}
 
 - [Audio Settings]({{< ref "audio" >}})
-- [Video Settings]()
+- [Video Settings]({{< ref "video" >}})
 - [Input Settings]()
 - [Common Game Settings]()
