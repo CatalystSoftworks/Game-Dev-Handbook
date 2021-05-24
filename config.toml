@@ -2,7 +2,22 @@ baseURL = "https://game-dev-handbook.catalystsoftworks.com/"
 languageCode = "en-us"
 title = "Catalyst Game Dev Handbook"
 theme = "book"
+
+disablePathToLower = true
 enableGitInfo = true
 
+
+[markup.tableOfContents]
+    startLevel = 1
+
 [params]
-    BookSection = "*"
+    # (Optional, default docs) Specify root page to render child pages as menu.
+    # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
+    # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
+    BookSection = '*'
+
+    # /!\ This is an experimental feature, might be removed or changed at any time
+    # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
+    # Portable links meant to work with text editors and let you write markdown without {{< relref >}} shortcode
+    # Theme will print warning if page referenced in markdown does not exists.
+    BookPortableLinks = true
