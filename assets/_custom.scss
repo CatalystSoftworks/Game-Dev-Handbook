@@ -139,8 +139,7 @@ a {
 }
 
 @media (min-width: 1280px) {
-  .book-menu,
-  .book-toc {
+  .book-menu {
     position: fixed;
     top: 0;
     bottom: 0;
@@ -150,12 +149,17 @@ a {
     left: 0;
   }
 
-  .book-toc {
-    right: 0;
-  }
+  // .book-toc {
+  //   right: 0;
+  // }
 
-  .container {
-    max-width: 50rem;
+  // .container {
+  // max-width: 50rem;
+  // }
+
+  body {
+    padding-left: $menu-width;
+    // padding-right: $toc-width;
   }
 }
 
