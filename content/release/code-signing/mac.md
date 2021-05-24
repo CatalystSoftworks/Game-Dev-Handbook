@@ -6,7 +6,7 @@ title: MacOS
 
 Much of this portion of the guide is based on [this fantastic little gist](https://gist.github.com/dpid/270bdb6c1011fe07211edf431b2d0fe4).
 
-> As of January 2020, all apps running on macOs 10.15 Catalina are required to be notarized. For Unity games distributed outside the Mac App Store, such as with Steam, the notarization process is done post build using a series of Xcode command line tools.
+> As of January 2020, all apps running on macOS 10.15 Catalina are required to be notarized. For Unity games distributed outside the Mac App Store, such as with Steam, the notarization process is done post build using a series of Xcode command line tools.
 
 ## Prerequisites
 * a Mac that is compatible with macOS 10.15 Catalina :
@@ -17,7 +17,7 @@ Much of this portion of the guide is based on [this fantastic little gist](https
     * iMac (2012 or newer)
     * iMac Pro (from 2017)
     * Mac Pro (2013 or newer)
-* macOs 10.15 Catalina installed
+* macOS 10.15 Catalina installed
 * Xcode 11.0 installed
 * Apple developer account at https://developer.apple.com/
 * Apple Id account at https://appleid.apple.com

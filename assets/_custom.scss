@@ -103,6 +103,41 @@ a {
 //   }
 // }
 
+.book-brand {
+  > a > img {
+    display: block;
+    margin: 0 auto 1em;
+    width: 60%;
+    // max-width: 100%;
+    height: auto;
+  }
+}
+
+.book-menu nav {
+  background: #322263;
+  background: linear-gradient(#322263, #6b0a93);
+  color: #ffa300;
+}
+
+.book-menu a.active {
+  color: #f70070;
+  font-weight: bold;
+}
+
+.book-section-flat > span {
+  color: #b9b1cf;
+  font-size: 0.87em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.page-header > h1 {
+  background: -webkit-linear-gradient(#6b0a93, #322263);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 @media (min-width: 1280px) {
   .book-menu,
   .book-toc {
@@ -117,6 +152,10 @@ a {
 
   .book-toc {
     right: 0;
+  }
+
+  .container {
+    max-width: 50rem;
   }
 }
 
