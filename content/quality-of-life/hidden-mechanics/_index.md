@@ -14,4 +14,4 @@ These mechanics are often best reserved for non-competitive games (i.e, games th
 
 Gameranx posted a video that does a pretty good job of demonstrating examples of these types of systems in various games:
 
-https://www.youtube.com/watch?v=qKUeoxA5uAs
+{{< youtube "qKUeoxA5uAs" >}}

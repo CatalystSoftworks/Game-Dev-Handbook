@@ -52,18 +52,6 @@ a {
   }
 }
 
-@media (min-width: 897px) {
-  .book-menu {
-    margin-top: 0.5em;
-
-    > nav {
-      position: sticky;
-      bottom: auto;
-      max-height: 100vh;
-    }
-  }
-}
-
 .book-posts {
   display: grid;
   grid-gap: 30px;
@@ -101,4 +89,40 @@ a {
     font-weight: bold;
     color: purple;
   }
+}
+
+// @media (min-width: 897px) {
+//   .book-menu {
+//     margin-top: 0.5em;
+
+//     > nav {
+//       position: sticky;
+//       bottom: auto;
+//       max-height: 100vh;
+//     }
+//   }
+// }
+
+@media (min-width: 1280px) {
+  .book-menu,
+  .book-toc {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+  }
+
+  .book-menu {
+    left: 0;
+  }
+
+  .book-toc {
+    right: 0;
+  }
+}
+
+.video {
+  margin: 3em 0;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
 }

@@ -1,25 +1,28 @@
 ---
 title: Audio Settings
 description: Outlines common options related to audio settings.
+weight: 1
 ---
 
 # Common Options
 
-### Music Volume
+## Music Volume
 
 A critical option, provides the ability to control the volume for all music related audio in the game. 
 
-### Sound Effects Volume
+## Sound Effects Volume
 
 Identical to [music volume](#music-volume), but for non-music related audio. Unless you plan on splitting sound effects further by category (voices, UI sounds, etc) it's a safe bet to control all sound effect volume through this option. 
 
-### Master Volume
+## Master Volume
 
 A common and desired option for most games is a master volume option. This option should have an effect on all audio sources for the game and will usually tie directly into the game engine's master volume mixer.
 
-# Recipes
+## Subtitles
 
-## Implementing Volume Controls
+An important feature for accessibility purposes is [subtitles](https://en.wikipedia.org/wiki/Subtitles). Adding subtitles is obviously important for players who are deaf or hard of hearing, but can also be useful for games where there may be important narrative or contextual information being relayed via sound (such as talking) all while other ambient or effects related noises are also playing (gun shots, vehicle engines, background music/chatter, etc). Subtitle support is not often an engine supported feature and will require planning and custom implementation to ensure that sounds that need accompanying subtitles are shown at the right times and only shown when this option is enabled.
+
+# Implementing Volume Controls
 
 Controlling volume is a common problem to solve, and most modern game engines provide good support for implementing is the functionality. When jumping into engine specific solutions below, pay attention for commonalities between them as this may help cement your understanding.
 
