@@ -17,11 +17,11 @@ mix up the challenge.
 
 ### Example: _Resident Evil 4_
 
-If the player is accurate and takes only a few hits, the enemies will automatically become more aggressive and deal more damage, but if the player is missing a lot of shots or getting hit too many times and dying, the enemies will become more passive, deal less damage and sometimes not even spawn.
-
-One example for this is during the gondola area in the village, if Leon takes enough hits at this part, the two archers will not spawn at the water room. This dynamic difficulty is turned off in Professional modes and the enemies are on a set aggressive manner that cannot be changed.
-
-_Taken from the [Resident Evil 4 Wiki Page](https://residentevil.fandom.com/wiki/Main_game_(RE4))_
+> If the player is accurate and takes only a few hits, the enemies will automatically become more aggressive and deal more damage, but if the player is missing a lot of shots or getting hit too many times and dying, the enemies will become more passive, deal less damage and sometimes not even spawn.
+>
+> One example for this is during the gondola area in the village, if Leon takes enough hits at this part, the two archers will not spawn at the water room. This dynamic difficulty is turned off in Professional modes and the enemies are on a set aggressive manner that cannot be changed.
+>
+> _Taken from the [Resident Evil 4 Wiki Page](https://residentevil.fandom.com/wiki/Main_game_(RE4))_
 
 ## Altering Damage
 
