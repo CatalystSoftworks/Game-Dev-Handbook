@@ -8,6 +8,9 @@ enableGitInfo = true
 [markup.tableOfContents]
     startLevel = 1
 
+[markup.goldmark.renderer]
+unsafe=true
+
 [params]
     # (Optional, default docs) Specify root page to render child pages as menu.
     # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/

@@ -19,4 +19,6 @@ Gameranx posted a video that does a pretty good job of demonstrating examples of
 
 # Additional Resources
 
-- [14 Hidden Video Game Design Tricks That Will Blow Your Mind](https://www.goliath.com/gaming/14-hidden-video-game-design-tricks-that-will-blow-your-mind/)
+- [Goliath: 14 Hidden Video Game Design Tricks That Will Blow Your Mind](https://www.goliath.com/gaming/14-hidden-video-game-design-tricks-that-will-blow-your-mind/)
+- [Polygon: Video game developers confess their hidden tricks at last](https://www.polygon.com/2017/9/2/16247112/video-game-developer-secrets)
+- [Polygon: [Celeste] Dev reveals the many ways their tough game secretly helps the player](https://www.polygon.com/2020/3/13/21178378/celeste-jumping-mechanics-secrets-development-maddy-thorson-platformer)
