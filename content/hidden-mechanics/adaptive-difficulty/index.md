@@ -35,28 +35,36 @@ A way to help make gameplay consistently more exciting in tense situations _with
 >
 > _From [Paul Hellquist on Twitter](https://twitter.com/TheElfquist/status/903694421434277888)_
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Bioshock if you would have taken your last pt of dmg you instead were invuln for abt 1-2 sec so you get more &quot;barely survived&quot; moments.</p>&mdash; Paul Hellquist (@TheElfquist) <a href="https://twitter.com/TheElfquist/status/903694421434277888">September 1, 2017</a></blockquote>
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Bioshock if you would have taken your last pt of dmg you instead were invuln for abt 1-2 sec so you get more &quot;barely survived&quot; moments.</p>&mdash; Paul Hellquist (@TheElfquist) <a href="https://twitter.com/TheElfquist/status/903694421434277888">September 1, 2017</a></blockquote> -->
 
 
 ## Level Scaling
 
+{{< hint "warning" >}}
+Level scaling is actually a pretty contentious topic, with some players opting to bypass the feature by avoiding conflicts or situations that would result in leveling up. This in turns prevents the game's enemies (and other systems) from also leveling up and becoming more difficult.
+
+[See _"The Leveling Problem"_ section from the Oblivion Wiki's page on leveling as an example](https://en.uesp.net/wiki/Oblivion:Leveling#The_Leveling_Problem)
+{{< /hint >}}
+
 A specific form of Anti-Grinding, usually seen in RPGs and Roguelikes, though it could potentially be used in any game with Character Levels. **Level Scaling is where the world (or specific areas) levels up with you to provide a constant challenge, primarily by upping your foes' stats.**
 
-There are three kinds of foe level scaling systems that are commonly used. One is where enemies simply have their stats and/or equipment improved. Another is a system where the number of enemies are increased. The third is a system where weaker enemies are replaced by different, stronger ones. Taking an encounter with a 25 hitpoint wolf in its den as an example - In the first system, the same wolf may have 100 hitpoints at a later level. In the second system, an entire pack of wolves will be encountered at higher levels. In the third system, the wolf will be replaced by a dire wolf or a bear after a certain level is reached. There may also be a combination of the three, so you may encounter wolves that progressively get stronger and increase in number, up until a certain point, where they'll be joined by dire wolves (with dire wolves growing more common at higher levels) or replaced by bears who also progressively get stronger as you level up. Most games employing level scaling also make use of a level cap for certain enemies and/or certain areas, so the cellar in the first tavern you enter isn't going to filled with level 100 rats when you return later. 
+There are three kinds of foe level scaling systems that are commonly used. One is where enemies simply have their stats and/or equipment improved. Another is a system where the number of enemies are increased. The third is a system where weaker enemies are replaced by different, stronger ones.
+
+Taking an encounter with a 25 hitpoint wolf in its den as an example - In the first system, the same wolf may have 100 hitpoints at a later level. In the second system, an entire pack of wolves will be encountered at higher levels. In the third system, the wolf will be replaced by a dire wolf or a bear after a certain level is reached. There may also be a combination of the three, so you may encounter wolves that progressively get stronger and increase in number, up until a certain point, where they'll be joined by dire wolves (with dire wolves growing more common at higher levels) or replaced by bears who also progressively get stronger as you level up. Most games employing level scaling also make use of a level cap for certain enemies and/or certain areas, so the cellar in the first tavern you enter isn't going to filled with level 100 rats when you return later. 
 
 _Taken from [TV Tropes Wiki: Level Scaling](https://tvtropes.org/pmwiki/pmwiki.php/Main/LevelScaling)_
 
 ### Example: _Elder Scrolls: Oblivion_
 
-{{< hint "todo" >}}
-talk about elder scrolls level scaling
-{{< /hint >}}
+>A key aspect of Oblivion is that when you level, the strength of most opponents increases: the level of many NPCs will be higher, and you will encounter more difficult creatures. On the other hand, there are many advantages to leveling. Maximizing these advantages will allow you to keep ahead of the enemies.
+>
+> _Taken from [Oblivion Wiki: Leveling](https://en.uesp.net/wiki/Oblivion:Leveling)_
 
 ### Example: _Final Fantasy 8_
 
-The levels for most enemies scale with your own. That is, they will become stronger as you become stronger. Furthermore, they improve at a higher rate than you, so while a level 5 character can take on a level 5 enemy rather easily, a level 30 character will have a lot of trouble defeating a level 30 enemy. You can compensate for this somewhat through junctioning, but it can still present a challenge. Enemies also see a huge jump in strength at levels 10 and 30, so you'll do best to keep your characters lower than that.
-
-_Taken from [this reddit thread on why keeping a low level is important](https://www.reddit.com/r/FinalFantasy/comments/28gvqn/why_is_keeping_a_low_level_in_ffviii_important/)_
+> The levels for most enemies scale with your own. That is, they will become stronger as you become stronger. Furthermore, they improve at a higher rate than you, so while a level 5 character can take on a level 5 enemy rather easily, a level 30 character will have a lot of trouble defeating a level 30 enemy. You can compensate for this somewhat through junctioning, but it can still present a challenge.
+>
+> _Taken from [r/FinalFantasy: why keeping a low level is important](https://www.reddit.com/r/FinalFantasy/comments/28gvqn/why_is_keeping_a_low_level_in_ffviii_important/)_
 
 ### Additional Resources
 
