@@ -8,15 +8,15 @@ weight: 1
 
 ## Music Volume
 
-A critical option, provides the ability to control the volume for all music related audio in the game. 
+**Expected Feature** &ndash; A critical option, provides the ability to control the volume for all music related audio in the game. 
 
 ## Sound Effects Volume
 
-Identical to [music volume](#music-volume), but for non-music related audio. Unless you plan on splitting sound effects further by category (voices, UI sounds, etc) it's a safe bet to control all sound effect volume through this option. 
+**Expected Feature** &ndash; Identical to [music volume](#music-volume), but for non-music related audio. Unless you plan on splitting sound effects further by category (voices, UI sounds, etc) it's a safe bet to control all sound effect volume through this option. 
 
 ## Master Volume
 
-A common and desired option for most games is a master volume option. This option should have an effect on all audio sources for the game and will usually tie directly into the game engine's master volume mixer.
+**Expected Feature** &ndash; A common and desired option for most games is a master volume option. This option should have an effect on all audio sources for the game and will usually tie directly into the game engine's master volume mixer.
 
 ## Subtitles
 

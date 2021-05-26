@@ -8,13 +8,13 @@ weight: 2
 
 ## Resolution
 
-Arguably one of the most important settings to provide (at least for those playing on a computer), resolution allows the player to correctly configure the game for their display OR in the event that the game is too taxing for their GPU, select a smaller resolution that provides a better frame rate. The most common resolution is 1920x1080, but some monitors may supported much larger resolutions (such as retina, 2k, 4k, 8k, and ultra wide displays).
+**Expected Feature** &ndash; Arguably one of the most important settings to provide (at least for those playing on a computer), resolution allows the player to correctly configure the game for their display OR in the event that the game is too taxing for their GPU, select a smaller resolution that provides a better frame rate. The most common resolution is 1920x1080, but some monitors may supported much larger resolutions (such as retina, 2k, 4k, 8k, and ultra wide displays).
 
 ## Display Mode
 
-Right next to resolution for players on computer is is display mode. Display mode usually consists of at least "Fullscreen" or "Windowed" options, but may sometimes contains a third "Windowed Fullscreen" setting. Fullscreen is usually the recommended setting for games and should be the default. Additionally, it's important to note that some engines will cap the game's FPS in either windowed modes to the monitor's refresh rate.
+**Expected Feature** &ndash; Right next to resolution for players on computer is is display mode. Display mode usually consists of at least "Fullscreen" or "Windowed" options, but may sometimes contains a third "Windowed Fullscreen" setting. Fullscreen is usually the recommended setting for games and should be the default. Additionally, it's important to note that some engines will cap the game's FPS in either windowed modes to the monitor's refresh rate.
 
-## Vertical Sync
+## Vertical Sync (VSync)
 
 ## Gamma
 

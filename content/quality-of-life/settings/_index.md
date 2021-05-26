@@ -13,3 +13,12 @@ It's all too easy to see settings as something easily implemented later in devel
 - [Audio Settings]({{< ref "audio" >}})
 - [Video Settings]({{< ref "video" >}})
 - [Input Settings]({{< ref "input" >}})
+- Game-Specific Settings
+
+## Accessibility
+
+Not listed here are accessibility options. This is because the topic of accessibility _should_ be a far larger discussion and consideration beyond just adding a checkbox or slider control. For that reason, we have [a dedicated article around accessibility]({{< ref "/quality-of-life/accessibility" >}}).
+
+## Localization
+
+Again, this is another topic that goes beyond just a language setting. If you plan to release your game in multiple markets or markets where there may be different languages or cultures, there are additional considerations to make during planning and development. Once again, we've created [a separate article around localization]({{< ref "/quality-of-life/localization" >}}).
