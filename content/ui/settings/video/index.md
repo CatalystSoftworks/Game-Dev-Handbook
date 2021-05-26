@@ -20,7 +20,9 @@ weight: 2
 
 ## Field of View
 
-> This setting really only applies to first-person shooters in most cases.
+> This setting really only applies to first-person shooters in most cases. That being said, offering this as an option can help a number of players with various cognitive or visual impairments. In the case of motion sickness, the FOV that the game is rendered in can have a major effect on your player's ability to play and enjoy the game without getting nauseous.
+>
+> [Read More &rarr;]({{< ref "/accessibility/visual#if-the-game-uses-field-of-view-3d-engine-only-allow-a-means-for-it-to-be-adjusted" >}})
 
 ## Anti-Aliasing
 

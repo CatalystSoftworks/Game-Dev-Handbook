@@ -16,6 +16,8 @@ Coyote Time, sometimes referred to as "Coyote Frames", is an invisible feature t
 
 _Paraphrased from [Coding Imprecise Controls to Make Them Feel More Precise](https://developer.amazon.com/blogs/appstore/post/9d2094ed-53cb-4a3a-a5cf-c7f34bca6cd3/coding-imprecise-controls-to-make-them-feel-more-precise)_
 
+### Example: _Celeste_
+
 ![https://twitter.com/MaddyThorson/status/1238338574220546049](celeste-coyote-time.webp)
 
 
@@ -31,6 +33,8 @@ _Paraphrased from [Coding Imprecise Controls to Make Them Feel More Precise](htt
 Input buffering is allowing the player (or any source of input) to input commands into the game and allow those commands to be effective for a short window of time after they are inputted. In the case of jump input buffering, the goal is to allow the player to input the jump button and still have a successful jump even if they mistimed their input by a tiny amount.
 
 _Paraphrased from [Jump Input Buffering](http://kpulv.com/106/Jump_Input_Buffering/)._
+
+### Example: _Celeste_
 
 ![https://twitter.com/MaddyThorson/status/1238338575545978880](celeste-jump-buffering.webp)
 

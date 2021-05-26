@@ -1,6 +1,6 @@
 ---
 title: Motor
-description:
+description: Common issues and concerns related to those who struggle with fine motor control.
 ---
 
 {{< youtube "Ufe0i26DGiA" >}}
@@ -44,6 +44,8 @@ Although PC/Mac operating systems offer sensitivity controls, these are within s
  <!-- [Original Article &rarr;](http://gameaccessibilityguidelines.com/include-an-option-to-adjust-the-sensitivity-of-controls/) -->
 
 ## Ensure interactive elements / virtual controls are large and well spaced, particularly on small or touch screens
+
+[Related: Accessibility/Visual &rarr;]({{< ref "visual#ensure-interactive-elements-virtual-controls-are-large-and-well-spaced-particularly-on-small-or-touch-screens" >}})
 
 Established research on touch hit areas is a good starting point. 2.4cm has been found to be the ideal size for touch screens, but impractical for smaller phone screens, so 0.96cm is the recommendation for phones.
 

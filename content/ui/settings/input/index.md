@@ -17,7 +17,7 @@ The topic of input settings can often be deeply linked to the conversation of ac
 
 ## Remap Support
 
-[Not all players' hands and motor skills are equal]({{< ref "/quality-of-life/accessibility/motor" >}}), additionally, not all players' devices or peripherals are equal either. This is why it can often be incredibly import to support key remapping, particularly if your game has a large number of controls or has input that requires a good deal of stretching[^crouch].
+[Not all players' hands and motor skills are equal]({{< ref "/accessibility/motor" >}}), additionally, not all players' devices or peripherals are equal either. This is why it can often be incredibly import to support key remapping, particularly if your game has a large number of controls or has input that requires a good deal of stretching[^crouch].
 
 [^crouch]: I'm looking at you `ctrl` for crouch
 

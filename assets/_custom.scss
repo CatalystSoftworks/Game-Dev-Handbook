@@ -138,7 +138,7 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 897px) {
   .book-menu {
     position: fixed;
     top: 0;
@@ -180,5 +180,17 @@ a {
   h5,
   h6 {
     line-height: 1.4;
+  }
+}
+
+.book-menu > nav > ul > li {
+  @extend .book-section-flat;
+
+  > a {
+    color: #b9b1cf;
+    font-size: 0.87em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
   }
 }
