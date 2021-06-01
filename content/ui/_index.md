@@ -5,6 +5,13 @@ weight: 30
 layout: single
 ---
 
-{{< hint "todo">}}
-This page is currently a placeholder for a planned article.
-{{< /hint >}}
+User interfaces, also referred to as GUI (Graphical User Interface), UI, or incorrectly as UX (User Experience), are one of the key ways of providing your player with contextual information about your game, its rules, and its narrative.
+
+- HUD (Heads-Up Display)
+- Main Menu
+- Multiplayer Menus
+- [Settings Menu]({{< ref "settings" >}})
+
+# General Resources
+
+- [**Interface in Game** Website](https://interfaceingame.com/)
