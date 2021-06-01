@@ -15,10 +15,7 @@ Below is a growing list of websites that also provide information or resources a
 
 - [GameDev.net](https://www.gamedev.net)
 - [Gamasutra](https://www.gamasutra.com/)
-- [Make It Big in Games](https://makeitbigingames.com/)
-- [Game Industry Grunts](https://gameindustrygrunts.com/)
 - [Interational Game Developers Association](https://www.igda.org/)
-- [GameTutorials.com](https://www.gametutorials.com/)
 - [Pixel Prospector](https://pixelprospector.com)
 - [Game Developers Conference](http://www.gdconf.com/)
 - [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
@@ -34,6 +31,7 @@ Below is a growing list of websites that also provide information or resources a
 
 - [GamePolitics.com](http://www.gamepolitics.com/)
 - [GameRankings.com](https://www.gamerankings.com/)
+- [GameTutorials.com](https://www.gametutorials.com/)
 - [Games Brief](https://www.gamesbrief.com/)
 
 ## Individuals / Blogs
@@ -45,3 +43,4 @@ Below is a growing list of websites that also provide information or resources a
 - [The Brainy Gamer](https://www.brainygamer.com/the_brainy_gamer/)
 - [Hideoblog](https://www.kjp.konami.jp/gs/hideoblog_e/)
 - [Ian Bogost](http://www.bogost.com/)
+- [Make It Big in Games](http://makeitbigingames.com/)
