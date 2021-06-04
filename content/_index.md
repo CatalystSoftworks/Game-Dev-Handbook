@@ -20,6 +20,18 @@ Below is a growing list of websites that also provide information or resources a
 - [Game Developers Conference](http://www.gdconf.com/)
 - [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
 
+## YouTube Channels
+
+- [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337)
+- [AI and Games](https://www.youtube.com/user/tthompso)
+- [Table Flip Games](https://www.youtube.com/channel/UCjG7y5Iw4TLHcK6ckuqUj_A)
+- [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+- [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+- [Lost Relic Games](https://www.youtube.com/channel/UCg-RkUY5LWy9qL1RBt2y0oA)
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+- [People Make Games](https://www.youtube.com/c/PeopleMakeGames/featured)
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz)
+
 ## Wikis / Forums
 
 - [Game Programming Wiki](http://www.andalucia-hotels.com/gpwikiorg/)

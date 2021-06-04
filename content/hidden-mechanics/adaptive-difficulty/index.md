@@ -35,7 +35,7 @@ A way to help make gameplay consistently more exciting in tense situations _with
 >
 > _From [Paul Hellquist on Twitter](https://twitter.com/TheElfquist/status/903694421434277888)_
 
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Bioshock if you would have taken your last pt of dmg you instead were invuln for abt 1-2 sec so you get more &quot;barely survived&quot; moments.</p>&mdash; Paul Hellquist (@TheElfquist) <a href="https://twitter.com/TheElfquist/status/903694421434277888">September 1, 2017</a></blockquote> -->
+<!-- {{< tweet 903694421434277888 >}} -->
 
 
 ## Level Scaling

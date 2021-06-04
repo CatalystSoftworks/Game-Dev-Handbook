@@ -2,6 +2,7 @@ baseURL = "https://gamedev.catalystsoftworks.com/"
 languageCode = "en-us"
 title = "Game Dev Handbook"
 
+googleAnalytics = "G-EDMRC6D3ZW"
 disablePathToLower = true
 enableGitInfo = true
 
