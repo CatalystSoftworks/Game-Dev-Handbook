@@ -19,7 +19,7 @@ There is no single game engine that can solve every use case, so knowing what en
 
 ## Krita
 
-Gaining internal traction over Photoshop it Krita, an open source alternative that feels far more natural when doing illustrative work. Additionally, when compared to Photoshop, Krita tends to be more performant and, shockingly, stable when compared to Photoshop.
+Gaining internal traction over Photoshop is Krita, an open source alternative that feels far more natural when doing illustrative work. Additionally, when compared to Photoshop, Krita tends to be more performant and, shockingly, stable when compared to Photoshop.
 
 ## Procreate (iOS)
 
