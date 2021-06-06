@@ -29,8 +29,7 @@
 {{ end -}}
 
 {{- if .Site.Params.BookServiceWorker }}
-{{- $swJS := resources.Get "sw-register.js" | resources.ExecuteAsTemplate "sw.js" . | resources.Minify |
-resources.Fingerprint }}
+{{- $swJS := resources.Get "sw-register.js" | resources.ExecuteAsTemplate "sw.js" . | resources.Minify | resources.Fingerprint }}
 <script defer src="{{ $swJS.RelPermalink }}" integrity="{{ $swJS.Data.Integrity }}"></script>
 {{ end -}}
 
