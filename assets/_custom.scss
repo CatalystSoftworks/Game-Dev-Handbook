@@ -194,3 +194,19 @@ a {
     letter-spacing: 1px;
   }
 }
+
+
+.book-footer {
+  margin-top: 3em;
+  border-top: solid 2px #eee;
+  padding-top: 3em;
+  color: #666;
+
+  a {
+    color: inherit;
+  }
+
+  svg {
+    fill: currentColor;
+  }
+}

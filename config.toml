@@ -24,4 +24,15 @@ unsafe=true
     # Theme will print warning if page referenced in markdown does not exists.
     BookPortableLinks = true
 
-    BookLogo = "https://catalystsoftworks.com/logo.svg"
+    # Set source repository location.
+    # Used for 'Last Modified' and 'Edit this page' links.
+    BookRepo = "https://github.com/catalystsoftworks/game-dev-handbook"
+
+    # Enable 'Edit this page' links for 'doc' page type.
+    # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+    # Path must point to the site directory.
+    BookEditPath = "edit/main/content"
+
+    # /!\ This is an experimental feature, might be removed or changed at any time
+    # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
+    BookServiceWorker = true

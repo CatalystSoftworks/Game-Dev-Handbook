@@ -11,7 +11,7 @@ This document is still in its early days of development. Therefore there are sev
 
 {{< /hint >}}
 
-This handbook is an living document being curated by [Catalyst Softworks](https://catalystsoftworks.com) as a way to distill the collective game development knowledge of the team into a single resource. Though this is intended to be an internal resource, we have decided to allow for it to be publicly accessible in hopes of helping others better realize their own visions and goals.
+This handbook is an [open-source](https://github.com/catalystsoftworks/game-dev-handbook) effort being curated by [Catalyst Softworks](https://catalystsoftworks.com) as a way to distill a collection of game development (and its nuances) into a single resource. Though this is intended to be an internal resource, we have decided to allow for it to be publicly accessible in hopes of helping others better realize their own visions and goals.
 
 # Other Resources
 
